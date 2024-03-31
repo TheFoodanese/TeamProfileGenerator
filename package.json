@@ -1,20 +1,24 @@
 {
-  "name": "teamprofilegenerator",
+  "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "EdX Front-End Web Development Bootcamp Module 12",
-  "main": "Employee.js",
+  "description": "A command-line application for generating a team profile webpage",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node index.js"
+    "start": "node index.js",
+    "type": "module"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^9.2.17",
-    "node.js": "^0.0.1-security"
-  },
+  "keywords": [
+    "team",
+    "profile",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "jest": "^27.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
   }
 }
