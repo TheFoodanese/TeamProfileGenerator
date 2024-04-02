@@ -1,10 +1,10 @@
-import Manager from "./challenge/starter/lib/Manager.js";
-import Engineer from "./challenge/starter/lib/Engineer.js";
-import Intern from "./challenge/starter/lib/Intern.js";
+import Manager from "./starter/lib/Manager.js";
+import Engineer from "./starter/lib/Engineer.js";
+import Intern from "./starter/lib/Intern.js";
 import inquirer from "inquirer";
 import path from "path";
 import fs from "fs";
-import { render } from "./challenge/starter/src/page-template.js";
+import { render } from "./starter/src/page-template.js";
 
 
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
