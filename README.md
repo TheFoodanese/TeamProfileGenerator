@@ -10,6 +10,8 @@ The Team Profile Generator is a command-line application that allows users to ge
 
 -Usage
 
+-Visuals
+
 -Credits
 
 -License
@@ -35,6 +37,10 @@ The Team Profile Generator is a command-line application that allows users to ge
 -Follow the prompts to input information about your team members.
 
 -Once all information is provided, the application will generate an HTML file in the output directory.
+
+## Visuals
+![Screenshot 2024-04-02 at 17 45 01](https://github.com/TheFoodanese/TeamProfileGenerator/assets/152094029/552e8545-efcc-4754-8d37-9f52b3aafcfd)
+
 
 ## Credits
 
